@@ -30,7 +30,7 @@ I am an aspiring software developer with experience in **game development**, **J
 ## 📂 Repository Structure
 
 . 
-├── home.html 
+├── home.html
 ├── index.html  
 ├── about.html  
 ├── contact.html  
